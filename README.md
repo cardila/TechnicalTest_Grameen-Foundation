@@ -1,7 +1,5 @@
-TechnicalTest_Grameen-Foundation
-================================
-
-Technical Test
+Technical Test Grameen Foundation
+=================================
 
 This repository is available to review the Grameen Foundation technical test
 
