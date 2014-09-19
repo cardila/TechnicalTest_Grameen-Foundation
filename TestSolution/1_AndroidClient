@@ -1,1 +1,9 @@
-sol1
+My Considerations:
+If we are thinking to develop content for a mobile devices and it will be used on a farm, ranch, plantation, etc. may be Internet connections is not always available, for that reason I suggest to storage the content inside the devices’ memory, it allow to work with or without Internet connection. Besides, is important to think in hardware with the capability to resist different environments, semi-extreme temperature, dust, water, weather, long battery life and strong hands handle it.
+
+Talking about connection, we need to solve two main problems, one of them is to update the content (videos, images, audio, text, upgrade applications, etc), the applications that manage the information will be able to update itself when detect a connection, like an automatic process. And the other point is synchronize the information captured by the mobile device with some database, data store, web application, cloud, etc. a good practice is make these procedures transparent for the end user and automatic, at least give the option to configure it.
+
+There are mobile data bases (normally called portable, lite or compact) that has the option to synchronize with server data base, in that case we can have the opportunity to connect the mobile’s data and server data storage easier. Anyway we have the tools to build a system information and take advantage of it.
+Another important consideration is the level of education and technology knowledge of the users, we have to build content easy to understand, complete, new, interesting, that represents a solid contribution for a farmer and its works, pay attention to assurance all of these things has a simple way to access, to handle, intuitive (using big icons, descriptives, helpful options) and even easy to use without exhaustive capacitation.
+
+About capacitation, we need to think in a process based on two-ways learning because not only the end user needs to acquire some knowledge, the foundation has to learn from them and how to transform some piece of hardware and software in a potential tool to reach the objectives proposed.
