@@ -1,0 +1,20 @@
+you can find the database design (tables, fields, relations) in the next link:
+
+https://my.vertabelo.com/public-model-view/3VvofeLwjHmfO2FoFnb3Cmb0vyD1YSKLCO4N2Ad2K8MorLjDc8hTYo5klQjFafNR?x=2084&y=2270&zoom=0.5
+
+Comments
+The design of this database support the entire process of ALSUR Commercial institution, it counts with separated entities to manage each kind of actors, processes and relations among them.
+
+All start with the need to coordinate the client’s requests, the farmer’s products and the way to improve your relationship. The design allow to create a cluster of farmers where they can standardize the price and offer all the products they cultivate, each cluster or association has one or more leaders (it depends of the size of association and regions they attend) with the proposal to sell all the production and obtain a benefit for farmers.
+
+The model allows to manage categories of products (fruits, vegetables, grains, etc) and define a standard price to avoid issues between farmers, besides specify the unit of measure of each product with aim to calculate the cost of transportation, obviously we need to fill information about routes, transportation companies, transportation type (air, rail, road, water) and freight cost. 
+
+Each kind of customer (buyers, large chain store, supermarkets) has the possibility to make unified orders by different associations achieving easy, fast and technological way to supply high demand products. The model allows to manage all the processes and get relevant information:
+
+-	Product amount per farmer
+-	Product amount per Association
+-	Purchase per customer
+-	Cost by logistics and transportation
+-	Estimated shipping time
+-	Products sold by association, farmer, and quantity in a period of time.
+-	Statistics of sales and orders
