@@ -7,6 +7,7 @@ LIST some design considerations that you would have in mind for the following pr
 - Interactive guides should include elements to facilitate understanding of the content such as videos, images, audio, text and interactivity with the user. 
 - It aims to take content to farmers in the field relevant to their daily work, for this purpose the following guides will be developed: Soil Management, Fertilization, among other topics.
 
+testing git hub
 
 2. Database design
 For the following business model, DESIGN AND EXPLAIN a data model that supports it. Assume the fields to save every step of the process such as order number, the producer code, product, quantity, units, etc. 
