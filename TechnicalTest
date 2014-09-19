@@ -1,0 +1,43 @@
+TECHNICAL TEST
+
+1. Android / Client
+LIST some design considerations that you would have in mind for the following project in order to work well for all users of Android devices: 
+
+- Grameen Foundation aims to develop a set of interactive content guides for display on mobile devices, preferably tablets with Android operating system. 
+- Interactive guides should include elements to facilitate understanding of the content such as videos, images, audio, text and interactivity with the user. 
+- It aims to take content to farmers in the field relevant to their daily work, for this purpose the following guides will be developed: Soil Management, Fertilization, among other topics.
+
+
+2. Database design
+For the following business model, DESIGN AND EXPLAIN a data model that supports it. Assume the fields to save every step of the process such as order number, the producer code, product, quantity, units, etc. 
+
+- ALSUR is a commercial institution located in Nariño, south western Colombia, which brings together many agricultural associations, allowing them to reach large customers and ensure that their production will be completely sold. 
+- In ALSUR business model, relationships with buyers, large chain stores and supermarkets are handled, receiving orders and managing to get all the necessary products from all linked associations then manage transport and logistics to bring products to Cali, one of the most important cities of Colombia. 
+- Thus, small farmers are grouped into associations and associations are grouped into ALSUR, enabling these farmers to bring their products to final consumers through major chains of retail stores, ensuring a market for their products. 
+- This business model has many challenges as logistics, traceability, consolidating payments. ALSUR currently handles all using paper forms and dashboards for monitoring in their offices. The project idea is to replace these basic tools with a system that supports the entire process, giving everyone involved in this chain multiple values, including: 
+
+- Ease to track information 
+- Speed ​​to consolidate payments 
+- Transparency in the entire value chain 
+
+The business process is as follows: Image
+
+3. Algorithms
+SOLVE the following problems seeking the optimum algorithm in each case. For the solution, the java language is preferred. If you do not know Java, you can use diagrams, pseudo-code or if you feel comfortable with any programming language you can write the code. Write unit tests for each of your solutions.
+
+a. Generate an algorithm to determine the number of blank CDs that are required to back-up a hard drive knowing the size of it. The algorithm should consider the following conditions:
+• User must enter the hard disk size in gigabytes (GB)
+• CDs of 700 megabytes (MB) capacity will be used for the backup
+• A gigabyte is 1024 megabytes
+
+b. A worker gets paid according to hours worked. If you work more than 40 hours, the additional hours rate is increased by 50%. Calculate the payment of an employee if the number of hours worked and the hourly rate is entered. 
+
+c. Generate a program to play "Hangman". The program must meet the following conditions:
+• Must have a limited set of possible faults
+• Must have a list of words and randomly select one for the player to guess, indicating how many letters and number of times you can fail
+• It must ask the player to enter a letter and every time the player enters one, it must indicate whether it is present in the word or if it failed and indicate the number of attempts left
+• If the players guesses the word it must show it and let him know he won
+• If the player reaches the number of times he can fail it must state that lost and print the word being was guessed
+
+4. Git & version control
+CREATE a Git repository (github) with a folder structure for each of the points of this test and upload the solutions there. The idea is to review this test is that you provide access to the repository.
